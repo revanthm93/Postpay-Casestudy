@@ -1,6 +1,0 @@
-order_id,customer_id,created_date,order_amount,shop_id,order_status
-1a ,1z ,03/02/2021,10,a ,paid
-2b ,2y ,03/05/2021,11,a ,paid
-3c ,3x ,03/05/2021,12,b ,Unpaid
-4d ,1z ,03/06/2021,13,c ,due
-5e ,2y ,10/02/2021,14,b ,paid
