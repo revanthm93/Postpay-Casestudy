@@ -12,6 +12,9 @@ result_df.csv - output file
 Please find the snapshots of the sample_df before and after processing:
 
 Before processing :
-[placeholder for sc]
+
+![bp](https://github.com/revanthm93/Postpay-Casestudy/blob/main/sample_df.PNG)
+
 After processing :
-[placeholder for sc]
+
+![ap](https://github.com/revanthm93/Postpay-Casestudy/blob/main/result_df.PNG)
